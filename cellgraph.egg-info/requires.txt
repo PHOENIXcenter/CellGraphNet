@@ -1,0 +1,9 @@
+prettytable
+tensorboard
+sklearn
+tabulate
+matplotlib
+jupyter
+jupyterlab
+dill
+scanpy
